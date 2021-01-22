@@ -1,0 +1,9 @@
+C:\Users\thiag\source\repos\ImporteExel\dllBankBitWs\bin\Debug\dllBankBitWs.dll
+C:\Users\thiag\source\repos\ImporteExel\dllBankBitWs\bin\Debug\dllBankBitWs.pdb
+C:\Users\thiag\source\repos\ImporteExel\dllBankBitWs\obj\Debug\dllBankBitWs.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\ImporteExel\dllBankBitWs\obj\Debug\dllBankBitWs.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\ImporteExel\dllBankBitWs\obj\Debug\dllBankBitWs.dll
+C:\Users\thiag\source\repos\ImporteExel\dllBankBitWs\obj\Debug\dllBankBitWs.pdb
+C:\Users\thiag\source\repos\ImporteExel\dllBankBitWs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thiag\source\repos\ImporteExel\dllBankBitWs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thiag\source\repos\ImporteExel\dllBankBitWs\obj\Debug\dllBankBitWs.csproj.CopyComplete

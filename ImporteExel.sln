@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImporteExel", "ImporteExel\ImporteExel.csproj", "{9B46651E-85A1-4E17-B3BA-FDBAC2C06263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllBankBitWs", "dllBankBitWs\dllBankBitWs.csproj", "{EAA74EB0-EBCC-4A66-A2B5-B03426D3A677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B46651E-85A1-4E17-B3BA-FDBAC2C06263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B46651E-85A1-4E17-B3BA-FDBAC2C06263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B46651E-85A1-4E17-B3BA-FDBAC2C06263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B46651E-85A1-4E17-B3BA-FDBAC2C06263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA74EB0-EBCC-4A66-A2B5-B03426D3A677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA74EB0-EBCC-4A66-A2B5-B03426D3A677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA74EB0-EBCC-4A66-A2B5-B03426D3A677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA74EB0-EBCC-4A66-A2B5-B03426D3A677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56546269-AE1B-4281-98D9-AC05900D918D}
+	EndGlobalSection
+EndGlobal

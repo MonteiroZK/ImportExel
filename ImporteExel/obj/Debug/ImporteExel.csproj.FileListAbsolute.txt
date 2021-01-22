@@ -1,0 +1,16 @@
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\bin\Debug\ImporteExel.exe.config
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\bin\Debug\ImporteExel.exe
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\bin\Debug\ImporteExel.pdb
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\obj\Debug\ImporteExel.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\obj\Debug\ImporteExel.Form1.resources
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\obj\Debug\ImporteExel.Properties.Resources.resources
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\obj\Debug\ImporteExel.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\obj\Debug\ImporteExel.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\obj\Debug\ImporteExel.exe
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\obj\Debug\ImporteExel.pdb
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\bin\Debug\dllBankBitWs.dll
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\bin\Debug\dllBankBitWs.pdb
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\obj\Debug\ImporteExel.csproj.CopyComplete
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\obj\Debug\ImporteExel.FormMetodos.resources
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thiag\source\repos\ImporteExel\ImporteExel\bin\Debug\Newtonsoft.Json.xml
